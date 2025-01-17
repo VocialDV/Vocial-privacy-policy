@@ -1,4 +1,4 @@
-Privacy Policy  
+Privacy Policy for Vocial
 ----------------
 
 ### Introduction  
@@ -7,9 +7,51 @@ Vocial built the Vocial app as a free app. This SERVICE is provided by Vocial at
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+### Information We Collect
+1.Personal Information:
+• When you create an account or log in, we collect your email address to manage your profile.
+
+2.Media Access:
+• Vocial requires access to your device's music filesand photos. This access is necessary for the app to function correctly, allowing you to play music from your device and select a profile picture.
+
+3.Usage Data:
+We may collect information about how you use the app, including interactions with features and content.
+
+
+### How We Use Your Information
+We use the information we collect for the following purposes:
+
+• To provide and maintain our service.
+
+• To allow you to create and manage your profile.
+
+• To improve our app and develop new features.
+
+• To communicate with you regarding updates, promotions, or other news related to Vocial.
+
+### Sharing Your Information
+
+Vocial does not sell or rent your personal information to third parties. We may share your information in the following circumstances:
+
+• With Your Consent: We may share your information with third parties if you give us permission to do so.
+
+• Legal Requirements: We may disclose your information if required by law or in response to valid requests by public authorities.
+
+### Data Security
+
+We take the security of your personal information seriously. We implement reasonable measures to protect your data from unauthorized access, loss, or misuse. However, no method of transmission over the internet or method of electronic storage is 100% secure, so we cannot guarantee its absolute security.
+
+### Your Rights
+
+You have the right to:
+
+• Access the personal information we hold about you.
+
+• Request correction of any inaccurate or incomplete data.
+
+• Request deletion of your personal information under certain circumstances.
+
+To exercise these rights, please contact us at vocial.developer@gmail.com.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
